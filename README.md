@@ -3,6 +3,5 @@
 > **Hello Everyone,
 I'm making this repository for PF Lab assignments.**
 
-
-
-jkbhdjgsf
+1. To do list
+   -Start study at 5pm
