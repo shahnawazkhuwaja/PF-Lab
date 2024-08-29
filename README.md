@@ -9,6 +9,6 @@ I'm making this repository for PF Lab assignments.**
 
 ~~Don't Click here~~
 
- To do List
+ 1. To do List
     - complete PF Lab assignment
       - complete Calculus homework
